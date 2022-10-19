@@ -1,0 +1,10 @@
+C:\Users\wendy\Desktop\視窗程設\1093305_2-1\bin\Debug\1093305_2-1.exe.config
+C:\Users\wendy\Desktop\視窗程設\1093305_2-1\bin\Debug\1093305_2-1.exe
+C:\Users\wendy\Desktop\視窗程設\1093305_2-1\bin\Debug\1093305_2-1.pdb
+C:\Users\wendy\Desktop\視窗程設\1093305_2-1\obj\Debug\1093305_2-1.csproj.AssemblyReference.cache
+C:\Users\wendy\Desktop\視窗程設\1093305_2-1\obj\Debug\_1093305_2_1.Form1.resources
+C:\Users\wendy\Desktop\視窗程設\1093305_2-1\obj\Debug\_1093305_2_1.Properties.Resources.resources
+C:\Users\wendy\Desktop\視窗程設\1093305_2-1\obj\Debug\1093305_2-1.csproj.GenerateResource.cache
+C:\Users\wendy\Desktop\視窗程設\1093305_2-1\obj\Debug\1093305_2-1.csproj.CoreCompileInputs.cache
+C:\Users\wendy\Desktop\視窗程設\1093305_2-1\obj\Debug\1093305_2-1.exe
+C:\Users\wendy\Desktop\視窗程設\1093305_2-1\obj\Debug\1093305_2-1.pdb
