@@ -1,9 +1,0 @@
-C:\Users\wendy\Desktop\視窗程設\1093305_hw1-1\bin\Debug\1093305_hw1-1.exe.config
-C:\Users\wendy\Desktop\視窗程設\1093305_hw1-1\bin\Debug\1093305_hw1-1.exe
-C:\Users\wendy\Desktop\視窗程設\1093305_hw1-1\bin\Debug\1093305_hw1-1.pdb
-C:\Users\wendy\Desktop\視窗程設\1093305_hw1-1\obj\Debug\1093305_hw1-1.csprojAssemblyReference.cache
-C:\Users\wendy\Desktop\視窗程設\1093305_hw1-1\obj\Debug\_1093305_hw1_1.Properties.Resources.resources
-C:\Users\wendy\Desktop\視窗程設\1093305_hw1-1\obj\Debug\1093305_hw1-1.csproj.GenerateResource.cache
-C:\Users\wendy\Desktop\視窗程設\1093305_hw1-1\obj\Debug\1093305_hw1-1.csproj.CoreCompileInputs.cache
-C:\Users\wendy\Desktop\視窗程設\1093305_hw1-1\obj\Debug\1093305_hw1-1.exe
-C:\Users\wendy\Desktop\視窗程設\1093305_hw1-1\obj\Debug\1093305_hw1-1.pdb
