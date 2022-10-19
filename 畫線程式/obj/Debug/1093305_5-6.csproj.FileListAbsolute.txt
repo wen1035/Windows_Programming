@@ -1,0 +1,30 @@
+C:\Users\wendy\Desktop\視窗程設\1093305_5-6\bin\Debug\1093305_5-6.exe.config
+C:\Users\wendy\Desktop\視窗程設\1093305_5-6\bin\Debug\1093305_5-6.exe
+C:\Users\wendy\Desktop\視窗程設\1093305_5-6\bin\Debug\1093305_5-6.pdb
+C:\Users\wendy\Desktop\視窗程設\1093305_5-6\obj\Debug\1093305_5-6.csproj.AssemblyReference.cache
+C:\Users\wendy\Desktop\視窗程設\1093305_5-6\obj\Debug\_1093305_5_6.Form1.resources
+C:\Users\wendy\Desktop\視窗程設\1093305_5-6\obj\Debug\_1093305_5_6.Properties.Resources.resources
+C:\Users\wendy\Desktop\視窗程設\1093305_5-6\obj\Debug\1093305_5-6.csproj.GenerateResource.cache
+C:\Users\wendy\Desktop\視窗程設\1093305_5-6\obj\Debug\1093305_5-6.csproj.CoreCompileInputs.cache
+C:\Users\wendy\Desktop\視窗程設\1093305_5-6\obj\Debug\1093305_5-6.exe
+C:\Users\wendy\Desktop\視窗程設\1093305_5-6\obj\Debug\1093305_5-6.pdb
+C:\Users\wendy\Desktop\新增資料夾 (3)\1093305_5-6\bin\Debug\1093305_5-6.exe.config
+C:\Users\wendy\Desktop\新增資料夾 (3)\1093305_5-6\bin\Debug\1093305_5-6.exe
+C:\Users\wendy\Desktop\新增資料夾 (3)\1093305_5-6\bin\Debug\1093305_5-6.pdb
+C:\Users\wendy\Desktop\新增資料夾 (3)\1093305_5-6\obj\Debug\1093305_5-6.csproj.AssemblyReference.cache
+C:\Users\wendy\Desktop\新增資料夾 (3)\1093305_5-6\obj\Debug\_1093305_5_6.Form1.resources
+C:\Users\wendy\Desktop\新增資料夾 (3)\1093305_5-6\obj\Debug\_1093305_5_6.Properties.Resources.resources
+C:\Users\wendy\Desktop\新增資料夾 (3)\1093305_5-6\obj\Debug\1093305_5-6.csproj.GenerateResource.cache
+C:\Users\wendy\Desktop\新增資料夾 (3)\1093305_5-6\obj\Debug\1093305_5-6.csproj.CoreCompileInputs.cache
+C:\Users\wendy\Desktop\新增資料夾 (3)\1093305_5-6\obj\Debug\1093305_5-6.exe
+C:\Users\wendy\Desktop\新增資料夾 (3)\1093305_5-6\obj\Debug\1093305_5-6.pdb
+C:\Users\wendy\Desktop\視窗程設\1093305_hw3\bin\Debug\1093305_5-6.exe.config
+C:\Users\wendy\Desktop\視窗程設\1093305_hw3\bin\Debug\1093305_5-6.exe
+C:\Users\wendy\Desktop\視窗程設\1093305_hw3\bin\Debug\1093305_5-6.pdb
+C:\Users\wendy\Desktop\視窗程設\1093305_hw3\obj\Debug\1093305_5-6.csproj.AssemblyReference.cache
+C:\Users\wendy\Desktop\視窗程設\1093305_hw3\obj\Debug\_1093305_5_6.Form1.resources
+C:\Users\wendy\Desktop\視窗程設\1093305_hw3\obj\Debug\_1093305_5_6.Properties.Resources.resources
+C:\Users\wendy\Desktop\視窗程設\1093305_hw3\obj\Debug\1093305_5-6.csproj.GenerateResource.cache
+C:\Users\wendy\Desktop\視窗程設\1093305_hw3\obj\Debug\1093305_5-6.csproj.CoreCompileInputs.cache
+C:\Users\wendy\Desktop\視窗程設\1093305_hw3\obj\Debug\1093305_5-6.exe
+C:\Users\wendy\Desktop\視窗程設\1093305_hw3\obj\Debug\1093305_5-6.pdb
